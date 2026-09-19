@@ -1,7 +1,19 @@
+![成都市耕地土壤有机质制图成果](./assets/result.png)
 # Agent_DSM
 面向数字土壤制图的土壤有机质智能体，一站式完成环境数据获取、样点处理、建模预测、有机质空间制图与不确定性分析，自带可视化交互界面，降低土壤数字制图的操作门槛。
-## 项目演示视频
+## 项目演示
 B站演示: [【数字土壤制图智能体演示】](https://www.bilibili.com/video/BV1mue867EKy/?share_source=copy_web&vd_source=7b1d7a1ee3ff37d1e3ef1c79c48510e3)
+### 登录页面
+![登录界面](./assets/login.png)
+
+### 交互工作区
+![系统工作面板](./assets/workspace.png)
+
+### 制图运算过程
+![制图运行中](./assets/processing.png)
+
+### 最终制图成果
+![土壤有机质成品图](./assets/result.png)
 ## 功能特性
 - 环境协变量数据自动下载
 - 土壤采样点数据清洗、坐标校验、样本筛选
