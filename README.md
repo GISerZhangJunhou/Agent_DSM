@@ -29,3 +29,9 @@ B站演示: [【数字土壤制图智能体演示】](https://www.bilibili.com/v
 - 用户需自行配置.env文件，包括API，账号密码，数据位置
 - 用户需要自行配置Python，推荐 Python 3.9 ~ 3.11
 - 启动直接运行app.py
+##  环境依赖
+项目使用Conda管理环境
+# 根据yml文件一键创建环境
+conda env create -f environment.yml
+# 激活环境
+conda activate geo_env
