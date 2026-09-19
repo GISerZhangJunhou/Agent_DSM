@@ -47,3 +47,6 @@
 conda env create -f environment.yml
 # 激活环境
 conda activate geo_env
+## 项目版本
+v1.0.0 正式交付版，可直接下载源码压缩包复现项目：
+[Release v1.0.0](https://github.com/GISerZhangJunhou/Agent_DSM/releases/tag/v1.0.0)
