@@ -1,0 +1,54 @@
+name: geo_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - scipy
+  - pandas
+  - jupyterlab
+  - gdal
+  - shapely
+  - rtree
+  - pyproj
+  - fiona
+  - geopandas
+  - xarray
+  - netcdf4
+  - seaborn
+  - scikit-learn
+  - sentinelsat
+  - earthengine-api
+  - statsmodels
+  - ipyleaflet
+  - folium
+  - mamba
+  - tqdm
+  - joblib
+  - distributed
+  - lxml
+  - beautifulsoup4
+  - requests
+  - pytorch-cuda=11.8
+  - scikit-image
+  - papermill
+  - openpyxl
+  - pyyaml
+  - richdem
+  - numpy=2.2.6
+  - pytorch
+  - torchvision
+  - torchaudio
+  - vs2015_runtime
+  - intel-openmp
+  - mkl
+  - mkl-service
+  - rasterio
+  - xgboost
+  - pysheds
+  - flask
+  - tabpfn
+  - tabpfn-extensions
+  - lightgbm
+prefix: E:\Anaconda3\envs\geo_env
